@@ -12,7 +12,21 @@ différents pays :
 
 
 
+
+
+
+
+
+
+
+
+
+
 COREE DU NORD
+
+
+
+
 Comme on le sait tous, la corée du Nord est très strict sur la presse, la censure...
 Les citoyens contournent souvent cette censure en offrant des pots-de-vin aux forces de l'ordre.
 La stratégie de la Corée du Nord pour contrer la corruption repose sur une répression intense et des lois strictes. 
@@ -29,38 +43,71 @@ Des campagnes de sensibilisation sont menées auprès du
 personnel public et des citoyens, visant à encourager un comportement responsable et à renforcer la conscience
 éthique.
 EXEMPLE :
-- Lois sur la surveillance des médias étrangers : La possession et la modification de récepteurs de radio ou de télévision pour accéder aux médias étrangers sont interdites. Cependant, ces lois sont souvent 
-contournées par le biais de pots-de-vin versés à la police.
-- Loi sur la langue de style sud-coréen : En 2023, une nouvelle loi a été promulguée qui prévoit des sanctions sévères en cas d’utilisation ou de diffusion d’une langue « de style sud-coréen ». Cette loi vise 
-à contrôler l’information et à limiter l’influence du sud.
-- Loi sur la liberté d’expression : Le gouvernement nord-coréen applique des lois draconiennes qui empêchent toute forme de liberté d’expression, surveille et contrôle les moyens de communication et la 
-circulation des informations entrant dans le pays et en sortant.
-- Loi sur la sécurité nationale : Les règles strictes et les punitions draconiennes, comme celles qui interdisent l’accès aux médias étrangers, sont souvent contournées en offrant des pots-de-vin à la police.
-- Loi sur la surveillance des frontières : La surveillance stricte des frontières rend difficile la contrebande de denrées alimentaires, ce qui limite l’accès des Nord-Coréens à la nourriture et aux produits 
-de première nécessité.
-- Loi sur la criminalité et la répression : Des sanctions sévères sont prévues pour les crimes tels que le commerce illégal et la corruption, mais ces lois sont souvent contournées par le biais de pots-de-vin.
-- Loi sur les marchés non officiels : La nourriture et d’autres produits de première nécessité sont moins disponibles sur les marchés non officiels, où une part considérable de la population nord-coréenne fait
- ses courses.
-- Loi sur la liberté de mouvement : Les Nord-Coréens sont souvent contraints de payer des pots-de-vin pour passer en Chine ou pour d’autres déplacements, ce qui est une pratique courante pour éviter les 
-contrôles stricts.
-- Loi sur les conditions de travail : Des cas de travail forcé, auquel étaient notamment soumis des enfants, ont été signalés. Les travailleurs envoyés à l’étranger ont décrit des conditions s’apparentant à 
-du travail forcé, avec des restrictions sévères de leur liberté de mouvement et une faible rémunération.
-- Loi sur la liberté de religion : La liberté de religion est restreinte, et les Nord-Coréens sont souvent contraints de suivre les instructions de l’État, sous peine de sanctions sévères.
+Loi sur la répression de la corruption (부패방지법) : Cette loi a été adoptée en 2020 et vise à lutter contre la corruption dans la fonction publique. Elle prévoit des sanctions pour les fonctionnaires qui 
+                                                     acceptent des dons ou des avantages en nature de la part de personnes qui ont un intérêt dans une affaire publique.
+
+Loi sur la transparence financière (재정투명성법) : Cette loi a été adoptée en 2017 et vise à améliorer la transparence financière dans la fonction publique. Elle oblige les fonctionnaires à déclarer leurs 
+                                                   biens et leurs activités financières.
+
+Loi sur la prévention de la corruption (부패방지법) : Cette loi a été adoptée en 2016 et vise à prévenir la corruption dans la fonction publique. Elle prévoit des sanctions pour les fonctionnaires qui 
+                                                     commettent des actes de corruption.
+
+Loi sur la répression de la corruption et de la concussion (부패방지법 및 횡령죄 처벌에 관한 법률) : Cette loi a été adoptée en 2019 et vise à lutter contre la corruption et la concussion dans la fonction 
+                                                                                                  publique. Elle prévoit des sanctions pour les fonctionnaires qui commettent des actes de corruption ou de 
+                                                                                                  concussion.
+
+Contrôle des transactions financières : Le gouvernement nord-coréen contrôle strictement les transactions financières, y compris les transferts d'argent et les paiements en espèces. Cela vise à empêcher 
+                                        la corruption et à contrôler les activités financières des personnes.
+
+Système de surveillance : Le gouvernement nord-coréen a mis en place un système de surveillance pour surveiller les activités des fonctionnaires et des hauts responsables. Cela vise à détecter les actes de 
+                          corruption et à prendre des mesures pour les prévenir.
+
+Système de plaintes : Le gouvernement nord-coréen a mis en place un système de plaintes pour les citoyens qui soupçonnent des actes de corruption. Cela vise à permettre aux citoyens de signaler les actes de 
+                      corruption et de demander des sanctions pour les responsables.
+
+Sanctions pour les responsables : Le gouvernement nord-coréen impose de fortes sanctions pour les responsables qui sont reconnus coupables d'actes de corruption. Cela vise à prévenir la corruption et à protéger 
+                                  les intérêts du peuple nord-coréen.
+
+
+On remarque que la corée du nord a opté pour une approche plus radical en infligant de sévères sanctions à ceux qui oserait corrompre / se faire corrompre.
+
+
+
+
 
 
 COREE DU SUD
 
 
+
+
+
+
+
+
+
 FRANCE
-    La loi Sapin du 29 janvier 1993 relative à la prévention de la corruption a créé le Service central de prévention de la corruption (SCPC)
-    La loi Sapin 2 du 9 décembre 2016 fait succéder à ce service l’Agence française anticorruption (AFA)
-    En gros le SCPC est devenu l'AFA pour des raison de modernisation de l'économie et de l'évolution des techniques de corruptions.
 
-    But de l'AFA :  L’Agence française anticorruption a pour mission d'aider les personnes, morales ou 
-                    physiques, qui y sont confrontées à prévenir et à détecter les atteintes à la probité 
-                    (faits de corruption, de trafic d'influence, de concussion, de prise illégale d'intérêt,
-                    de détournement de fonds publics et de favoritisme).
+But de l'AFA :  L’Agence française anticorruption a pour mission d'aider les personnes, morales ou 
+                physiques, qui y sont confrontées à prévenir et à détecter les atteintes à la probité 
+                (faits de corruption, de trafic d'influence, de concussion, de prise illégale d'intérêt,
+                de détournement de fonds publics et de favoritisme).
 
+Loi du 6 juillet 1993 (Loi de transparence financière) :
+Obligation pour les parlementaires et les candidats à la présidence de la République de déclarer leurs biens et leurs activités financières
+Obligation pour les partis politiques de déclarer leurs financements
+
+Loi du 23 mars 2000 (Loi de prévention de la corruption) :
+Obligation pour les entreprises de déclarer les dons et les avantages en nature qu'elles ont reçus
+Obligation pour les fonctionnaires de ne pas accepter de dons ou d'avantages en nature de la part de personnes qui ont un intérêt dans une affaire publique
+
+Loi du 9 décembre 2016 (Loi Sapin 2) :
+Création de l'Agence française anticorruption (AFA) pour veiller à la mise en œuvre des mesures préventives de corruption par les entreprises
+Obligation pour les entreprises de plus de 500 employés et un chiffre d'affaires annuel supérieur à 100 millions d'euros de mettre en place des dispositifs de prévention de la corruption
+Statut protecteur pour les lanceurs d'alerte
+Sanctions administratives, financières et pénales pour les entreprises qui ne respectent pas les obligations de la loi
+
+Avec ces exemples on remarque que la france opte pour une solution plutôt préventif en obligeant les entreprises à etre transparente dans leur economie / budget / capital afin de prévenir le risque
 
 
 

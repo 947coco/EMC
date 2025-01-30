@@ -13,6 +13,9 @@
             display: flex;
             flex-direction: column; 
             align-items: center; 
+            background-image: url('Elements_annexes/fond.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
         }
         .texte {
             background-color: #fff;
@@ -31,12 +34,11 @@
             font-size: 400%;
         }
         h3 {
-            margin-top: 0;
             text-align: center;
         }
         .intro {
             line-height: 145%;
-            margin : 1vw;
+            margin : 5%;
             font-size: 2vh;
         }
         footer {
@@ -44,16 +46,23 @@
             left: 0;
             bottom: 0;
             width: 100%;
-            height: 20%;
+            height: 22%;
             background-color: #000;  
             color: #fff; 
+            margin:0px;
+            text-align: center;
+            padding: 1%;
         }
-        .en_bas{
-            width: 90%;
-            height:86%;
+        .lien1{
             background-color: #ff0000;
-            margin: 1%;
-
+            width: 70%;
+            height: 80%;
+            margin-left: 15.5%;
+            display: flex;
+            text-align: center;
+        }
+        .lien2{
+            a
         }
         .main_question{
             color: #001a8d;
@@ -62,12 +71,40 @@
             color:#ff0000
         }
         button{
-            background-color:#fff ;
-            border-radius:10% ;
-            width: 10%;
-            height: 10%;
-            padding: 10%;
+            width: 20%;
+            height: 40%;
+            padding:2%;
+            background-color: #0044ff;
+            border-radius: 20px; 
+            text-align: center;
+            font-size: 100%;
+            color: #FFFFFF;
+            cursor: pointer;
+            margin:4%;
+            box-shadow: 20px 15px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        button:hover {
+            background-color: #3e61fd; /* Changement de couleur lors du survol */
+        }
+
+        .lien-journal{
+            text-decoration: none;
+            color:#000000;
             font-size: 300%;
+        }
+
+        a:not(.lien-journal){
+            font-size: 115%;
+            margin: 2%;
+            background-color: #fdc13f;
+            height: 25%;
+            padding: 0%;
+            width: 20%;
+            position: relative;
+            display: inline-block;
+            text-decoration: none;
+            color: #495ba8;
         }
     </style>
 </head>
@@ -83,29 +120,29 @@
     </div>
 
     <button>
-        <a href="journal.html" class="bouton-grand">
-            salut
+        <a target="_blank" href="journal.html" class="lien-journal">
+            Accéder au Journal
           </a>
         
     </button>
-<!--
-    <div class="journal">
-        <iframe src="https://publuu.com/flip-book/782023/1730729/page/1?embed" width="200%" height="500" scrolling="yes" frameborder="0" allow="clipboard-write; autoplay; fullscreen" class="publuuflip"></iframe>
-    </div>
--->
     
     <footer>
-        <div class="en_bas">
-        Sources :   <a href="https://fr.wikipedia.org/wiki/Corruption"><p class="source">wikipedia corruption</p></a> 
-                    <a href="https://www.larousse.fr/dictionnaires/francais/corruption/19471"><p class="source">definition larousse corruption</p></a> 
-                    <a href="https://fr.wikipedia.org/wiki/Corruption_en_Cor%C3%A9e_du_Nord"><p class="source">wikipedia corrée du nord</p></a> 
-                    <a href="https://fr.wikipedia.org/wiki/Agence_fran%C3%A7aise_anticorruption"><p class="source">AFA (Agence Française Anti-corruption)</p></a> 
-                    <a href="https://www.credit-agricole.fr/banque-privee/conseils/magazine/tout-un-mag/loi-sapin-2-pour-une-meilleure-protection-des-assures.html"><p class="source">lois sapin 2</p></a> 
-                    <a href="https://www.village-justice.com/articles/impact-loi-sapin-sur-assurance-vie-francaise-luxembourgeoise-perspectives,50225.html"><p class="source">lois sapin 2</p></a> 
-                    <a href="https://www.scienceshumaines.com/coree-du-nord-les-vertus-de-la-corruption_fr_32019.html"><p class="source">vertus corruption corée du nord</p></a> 
-                    <a href=""><p class="source"></p></a> 
-                    <a href=""><p class="source"></p></a> 
+        Afin de chercher les informations nécessaires, nous avons utilisé différentes sources que voici :
+        <div class="lien1">
+                    <a target="_blank" href="https://fr.wikipedia.org/wiki/Corruption"><p class="source">wikipedia corruption</p></a> 
+                    <a target="_blank" href="https://www.larousse.fr/dictionnaires/francais/corruption/19471"><p class="source">larousse corruption</p></a> 
+                    <a target="_blank" href="https://fr.wikipedia.org/wiki/Corruption_en_Cor%C3%A9e_du_Nord"><p class="source">wikipedia corrée du nord</p></a> 
+                    <a target="_blank" href="https://www.scienceshumaines.com/coree-du-nord-les-vertus-de-la-corruption_fr_32019.html"><p class="source">corruption corée du nord</p></a> 
+                    <a target="_blank" href="https://fr.wikipedia.org/wiki/Agence_fran%C3%A7aise_anticorruption"><p class="source">Agence Française Anti-corruption</p></a> 
         </div>
+
+        <div class="lien2">
+
+                    <a target="_blank" href="https://www.credit-agricole.fr/banque-privee/conseils/magazine/tout-un-mag/loi-sapin-2-pour-une-meilleure-protection-des-assures.html"><p class="source">lois sapin 2</p></a> 
+                    <a target="_blank" href="https://www.village-justice.com/articles/impact-loi-sapin-sur-assurance-vie-francaise-luxembourgeoise-perspectives,50225.html"><p class="source">lois sapin 2</p></a> 
+                    <a target="_blank" href=""><p class="source"></p></a>
+        </div>
+
     </footer>
 
 </body>

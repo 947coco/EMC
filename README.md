@@ -12,18 +12,20 @@ Si le journal numérique est indisponible, merci d'ouvrir le pdf (le contenue es
 Merci de me contacter via mon adresse email.
 
 
-
-# Mot pour les autres
-Ce projet est réaliser par moi-même, yanis et daniel. Je tenais à dire que le format est juste génial.
-
-## Ce qu'il reste à faire
-
 #### Les recherches
 - [ ] Intro
+    - [x] Definire le sujet
 - [ ] France
-    - [x] Lois Sapin
-    - [x] AFA
-
+    - [x] Exemples
+    - [x] Sources
+    - [ ] Lier les exemple
 - [ ] Corée du Nord
+    - [x] Exemples
+    - [ ] Sources
+    - [ ] Lier les exemple
 - [ ] Corée du Sud
+    - [ ] Exemples
+    - [ ] Sources
+    - [ ] Lier les exemple
+- [ ] Ajout d'images (cartes, graphes...)
 - [ ] Conclusion
